@@ -41,6 +41,9 @@ a {
     color: var(--black-color);
 }
 
+.logo .footer-studio {
+    color: var(--main-light-color)
+}
 /* navigation */
 
 .link {
